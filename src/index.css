@@ -1,0 +1,13 @@
+.bg-img {
+    background-image: url(/src/assets/bg.webp);
+    background-size: contain;
+}
+
+* {
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+    background-color: rgb(207, 206, 206);
+}
